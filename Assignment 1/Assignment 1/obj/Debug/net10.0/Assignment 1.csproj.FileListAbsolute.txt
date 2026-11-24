@@ -1,0 +1,16 @@
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\Assignment 1.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\Assignment 1.AssemblyInfo.cs
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\bin\Debug\net10.0\Assignment 1.exe
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\bin\Debug\net10.0\Assignment 1.deps.json
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\bin\Debug\net10.0\Assignment 1.runtimeconfig.json
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\bin\Debug\net10.0\Assignment 1.runtimeconfig.dev.json
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\bin\Debug\net10.0\Assignment 1.dll
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\bin\Debug\net10.0\Assignment 1.pdb
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\Assignment 1.dll
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\refint\Assignment 1.dll
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\Assignment 1.pdb
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\Assignment 1.genruntimeconfig.cache
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\ref\Assignment 1.dll
+C:\Users\MUHAMMED\source\repos\C#\Assignment 1\Assignment 1\obj\Debug\net10.0\Assignme.9EE8BD87.Up2Date
